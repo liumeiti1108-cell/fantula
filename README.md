@@ -8,4 +8,5 @@
 
 ## 文章目录
 
-（陆续更新）
+
+- [别再踩雷！数字订阅正规独立账号 vs 非正规渠道 3 大核心对比](docs/2026-10-06_digital-subscription-independent-account-vs-unauthorized-channels.md) · 2026-10-06
