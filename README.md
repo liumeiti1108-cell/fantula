@@ -1,10 +1,10 @@
-# 凡图拉 FANTULA
+# 凡图拉商城 · FANTULA
 
-> 好音乐，不断更
+凡图拉（FANTULA）旗下的数字商品商城：海外流媒体会员、VTuber 频道会员、游戏充值与礼品卡。
+这里是官方教程与指南合集 —— YouTube 频道会员、VTuber、流媒体会员怎么开、怎么用，一步一步写清楚。
 
-凡图拉的官方教程与指南合集 —— YouTube 频道会员、VTuber、流媒体会员怎么开、怎么用，一步一步写清楚。
-
-- 🌐 官网：[www.fantula.com](https://www.fantula.com) · [www.fantula.cn](https://www.fantula.cn)
+- 🌐 官网：[www.fantula.com](https://www.fantula.com)
+- 凡图拉旗下另有面向企业的出海服务：[凡图拉出海](https://www.fantula.net)（[GitHub](https://github.com/fantulallc/fantula-studio)）
 
 ## 文章目录
 
