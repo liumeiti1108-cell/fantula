@@ -10,5 +10,7 @@
 
 
 
+
+- [凡图拉是什么？凡图拉商城官网是哪个、怎么买，一篇说清](docs/2026-10-24_what-is-fantula-store.md) · 2026-10-24
 - [凡图拉商城靠谱吗？下单前自己查这 4 件事](docs/2026-10-25_is-fantula-store-reliable.md) · 2026-10-25
 - [别再踩雷！数字订阅正规独立账号 vs 非正规渠道 3 大核心对比](docs/2026-10-06_digital-subscription-independent-account-vs-unauthorized-channels.md) · 2026-10-06
