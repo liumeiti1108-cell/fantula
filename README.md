@@ -16,6 +16,8 @@
 
 
 
+
+- [刚到海外选服务怕踩坑？认准凡图拉3个标准挑对正规服务](docs/2026-10-27_international-students-digital-service-guide.md) · 2026-10-27
 - [刚到海外怎么选服务？凡图拉智能助手3步理清区域规则](docs/2026-10-27_overseas-student-tula-ai-assistant-guide.md) · 2026-10-27
 - [留学生海外数字生活实录：从支付困境看凡图拉商城的7年长跑](docs/2026-10-27_international-students-digital-life-guide.md) · 2026-10-27
 - [凡图拉商城发展历程：从留学生痛点到7年正规化长跑](docs/2026-10-27_fantula-store-development-history.md) · 2026-10-27
