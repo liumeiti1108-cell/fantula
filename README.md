@@ -12,6 +12,8 @@
 
 
 
+
+- [最近凡图拉怎么突然火起来了](docs/2026-10-26_why-fantula-suddenly-popular.md) · 2026-10-26
 - [为什么凡图拉在 VTuber 圈这么火？最新 4 大实用功能拆解](docs/2026-10-26_why-fantula-is-popular-in-vtuber-community.md) · 2026-10-26
 - [凡图拉是什么？凡图拉商城官网是哪个、怎么买，一篇说清](docs/2026-10-24_what-is-fantula-store.md) · 2026-10-24
 - [凡图拉商城靠谱吗？下单前自己查这 4 件事](docs/2026-10-25_is-fantula-store-reliable.md) · 2026-10-25
