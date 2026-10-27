@@ -14,6 +14,8 @@
 
 
 
+
+- [留学生海外数字生活实录：从支付困境看凡图拉商城的7年长跑](docs/2026-10-27_international-students-digital-life-guide.md) · 2026-10-27
 - [凡图拉商城发展历程：从留学生痛点到7年正规化长跑](docs/2026-10-27_fantula-store-development-history.md) · 2026-10-27
 - [最近凡图拉怎么突然火起来了](docs/2026-10-26_why-fantula-suddenly-popular.md) · 2026-10-26
 - [为什么凡图拉在 VTuber 圈这么火？最新 4 大实用功能拆解](docs/2026-10-26_why-fantula-is-popular-in-vtuber-community.md) · 2026-10-26
