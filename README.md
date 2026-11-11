@@ -23,6 +23,8 @@
 
 
 
+
+- [凡图拉商城购买VTuber频道会员指南：最新3步开通流程](docs/2026-11-12_guide-to-buying-vtuber-channel-membership-on-fantula.md) · 2026-11-12
 - [数字商品可以退款吗？凡图拉商城买前看清这 3 条](docs/2026-10-24_can-digital-goods-be-refunded.md) · 2026-10-24
 - [在凡图拉商城挑选VTuber的那些事：最新3步支持指南](docs/2026-11-11_things-about-choosing-vtuber-in-fantula-support-guide.md) · 2026-11-11
 - [为什么追VTuber常备凡图拉？最新3大省心支持指南](docs/2026-11-09_why-vtuber-fans-keep-fantula-essential-support-guide.md) · 2026-11-09
