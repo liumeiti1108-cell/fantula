@@ -21,6 +21,8 @@
 
 
 
+
+- [在凡图拉商城挑选VTuber的那些事：最新3步支持指南](docs/2026-11-11_things-about-choosing-vtuber-in-fantula-support-guide.md) · 2026-11-11
 - [为什么追VTuber常备凡图拉？最新3大省心支持指南](docs/2026-11-09_why-vtuber-fans-keep-fantula-essential-support-guide.md) · 2026-11-09
 - [刚看VTuber直播怎么互动？以这3条为标准](docs/2026-11-03_how-to-interact-in-vtuber-livestream-3-standards.md) · 2026-11-03
 - [刚入坑VTuber怎么选主推？以这3条为标准](docs/2026-11-02_how-to-choose-vtuber-oshi-3-standards.md) · 2026-11-02
