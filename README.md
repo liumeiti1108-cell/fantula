@@ -25,6 +25,8 @@
 
 
 
+
+- [凡图拉商城发展历程：3个阶段看懂服务演进](docs/2026-11-13_development-history-of-fantula-mall.md) · 2026-11-13
 - [刚入坑必看：关于VTuber的4个核心知识点与海外会员应援](docs/2026-10-28_vtuber-core-knowledge-points-guide.md) · 2026-10-28
 - [凡图拉商城购买VTuber频道会员指南：最新3步开通流程](docs/2026-11-12_guide-to-buying-vtuber-channel-membership-on-fantula.md) · 2026-11-12
 - [数字商品可以退款吗？凡图拉商城买前看清这 3 条](docs/2026-10-24_can-digital-goods-be-refunded.md) · 2026-10-24
