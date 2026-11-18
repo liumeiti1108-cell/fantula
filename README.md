@@ -28,6 +28,8 @@
 
 
 
+
+- [eSIM怎么办理：出境上网前核对这3步](docs/2026-11-18_how-to-get-esim-travel-guide.md) · 2026-11-18
 - [Steam充值卡安全吗：最新避免红信看这3处](docs/2026-11-17_is-steam-wallet-card-safe-avoid-red-alert-guide.md) · 2026-11-17
 - [VTUBE频道会员充值那点事](docs/2026-11-13_vtube-channel-membership-recharge-guide.md) · 2026-11-13
 - [凡图拉商城发展历程：3个阶段看懂服务演进](docs/2026-11-13_development-history-of-fantula-mall.md) · 2026-11-13
