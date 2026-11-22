@@ -32,6 +32,8 @@
 
 
 
+
+- [最新esim卡和实体卡区别：出国旅游如何选看这3点](docs/2026-11-22_latest-esim-vs-physical-sim-card-differences-travel-guide.md) · 2026-11-22
 - [最新Steam礼品卡哪里买：3个靠谱挑选方法实测](docs/2026-11-22_latest-steam-gift-card-purchase-channels-and-selection-guide.md) · 2026-11-22
 - [最新eSIM流量卡推荐：出国如何选看这3步](docs/2026-11-22_latest-travel-esim-card-recommendations-and-selection-guide.md) · 2026-11-22
 - [Steam余额怎么买游戏：最新结算避坑3步](docs/2026-11-20_how-to-buy-steam-games-with-wallet-balance-guide.md) · 2026-11-20
